@@ -37,7 +37,7 @@ To set up the Praveen's Sketch Book locally, follow these steps:
 - Clone the repository
 
   ```js
-  git clone
+  git clone : https://github.com/Praveen-2022/praveen-s_sketchbook_frontend.git
   ```
 
 - Navigate to the project folder
@@ -56,7 +56,7 @@ To set up the Praveen's Sketch Book locally, follow these steps:
 
 ## Live Link
 
-Explore the project in action and share your feedback: [Launch Project]()
+Explore the project in action and share your feedback: [Launch Project](https://praveen-sketchbook.vercel.app/)
 
 ## Backend Repository
 

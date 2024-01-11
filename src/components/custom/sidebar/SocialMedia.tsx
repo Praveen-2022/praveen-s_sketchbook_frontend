@@ -7,7 +7,7 @@ const SocialMedia = () => {
     <div className="flex flex-col gap-2">
       {/* for github */}
       <Link
-        href="https://github.com/Vinay-Pratap-Singh"
+        href="https://github.com/Praveen-2022"
         rel="noopener noreferrer"
         target="_blank"
       >
@@ -22,7 +22,7 @@ const SocialMedia = () => {
 
       {/* for linkedin */}
       <Link
-        href="https://www.linkedin.com/in/"
+        href="https://www.linkedin.com/in/praveen-vbspu/"
         rel="noopener noreferrer"
         target="_blank"
       >
@@ -36,7 +36,7 @@ const SocialMedia = () => {
       </Link>
 
       {/* for report bug */}
-      <Link
+      {/* <Link
         href="https://docs.google.com/forms/d/e/1FAIpQLSeVG5P47rFl5HtVoDCmJuyC8gKrFLN1FRLP83WJDrfefO6rjQ/viewform?usp=sf_link"
         rel="noopener noreferrer"
         target="_blank"
@@ -48,14 +48,10 @@ const SocialMedia = () => {
           <i className="fa-solid fa-bug" />
           <p>Report a bug</p>
         </Button>
-      </Link>
+      </Link> */}
 
       {/* for contact us */}
-      <Link
-        href="/"
-        rel="noopener noreferrer"
-        target="_blank"
-      >
+      <Link href="mailto:praveenkumarchauhan2022@gmail.com" rel="noopener noreferrer" target="_blank">
         <Button
           variant={"outline"}
           className="hover:bg-mainSecondary w-full flex items-center justify-start gap-2"
